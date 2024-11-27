@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vaibhav979
-- 👀 I’m interested in Java Development, DevOps and Security
+- 👀 I’m interested in Java Development, DevOps and Cybersecurity
 - 🌱 I’m currently learning Development and DevOps
 - 📫 Reach me on LinkedIn
 
