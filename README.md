@@ -18,15 +18,15 @@ I'm a passionate backend developer currently interning as a Java/Spring Boot dev
 
 ## 💼 Projects
 
-### 🔹 [LAW - Legal Awareness Website](https://github.com/your-repo-link)
+### 🔹 [LAW - Legal Awareness Website]([https://github.com/Vaibhav979/Legal-Awzreness-Website])
 Connects users with legal authorities (advocates, inspectors) to help resolve legal issues.
 > Tech: Spring Boot • Thymeleaf • MySQL
 
-### 🔹 [File Sharing Manager]([https://github.com/your-repo-link](https://github.com/Vaibhav979/File-Sharing-Manager))
+### 🔹 [File Sharing Manager]([https://github.com/Vaibhav979/File-Sharing-Manager]
 Full-stack file sharing app with real-time features.
 > Tech: Spring Boot • Html • CSS • JS 
 
-### 🔹 [Mock Interview AI Platform](WIP)([https://github.com/Vaibhav979/AI-Mock-Interview-Project])
+### 🔹 [Mock Interview AI Platform](WIP)
 An AI-powered interview assistant with voice input, camera feedback, and real-time evaluation.
 > Tech: Spring Boot • Rasa • Gemini API • Hume TTS • Ollama
 
