@@ -20,7 +20,7 @@ I'm a passionate software developer, a Java/Spring Boot developer, building real
 
 ### 🔹 [LAW - Legal Awareness Website](https://github.com/Vaibhav979/Legal-Awzreness-Website)
 Connects users with legal authorities (advocates, inspectors) to help resolve legal issues.
-> Tech: Spring Boot • React • MySQL
+> Tech: Spring Boot • Thymeleaf • MySQL
 
 ### 🔹 [File Sharing Manager](https://github.com/Vaibhav979/File-Sharing-Manager)
 Full-stack file sharing app with real-time features and modern UI.
