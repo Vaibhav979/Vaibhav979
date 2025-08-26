@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Vaibhav Singh
 
-🎯 Backend Developer | ☁️ Aspiring DevSecOps Engineer | 🤖 AI/ML Explorer  
-🔧 Tech Stack: Java • Spring Boot • React • Tailwind CSS • MySQL • GitHub Actions • Docker (Learning)
+🎯 Software Developer | ☁️ Aspiring DevSecOps Engineer | 🤖 AI/ML Explorer  
+🔧 Tech Stack: Java • Spring Boot • React • Tailwind CSS • MySQL • GitHub Actions • DevOps (Learning)
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate backend developer currently interning as a Java/Spring Boot developer, building real-world full-stack projects and moving steadily into DevSecOps and AI/ML. My goal is to create scalable, secure, and intelligent software systems — and eventually launch my own tech startup 🚀
+I'm a passionate software developer, a Java/Spring Boot developer, building real-world full-stack projects and moving steadily into DevSecOps and AI/ML. My goal is to create scalable, secure, and intelligent software systems — and eventually launch my own tech startup 🚀
 
 - 🔨 Currently working on: Mock Interview AI Platform & DevSecOps Tools
 - 🌱 Learning: Kubernetes, Rasa, Gemini API, Hume.ai, LLMs with Ollama
@@ -24,17 +24,16 @@ Connects users with legal authorities (advocates, inspectors) to help resolve le
 
 ### 🔹 [File Sharing Manager](https://github.com/Vaibhav979/File-Sharing-Manager)
 Full-stack file sharing app with real-time features and modern UI.
-> Tech: Spring Boot • React • Tailwind CSS
+> Tech: Spring Boot • React • Tailwind CSS • MySQL
 
 ### 🔹 [Mock Interview AI Platform](WIP)
 An AI-powered interview assistant with voice input, camera feedback, and real-time evaluation.
-> Tech: Spring Boot • Rasa • Gemini API • Hume TTS • Ollama
+> Tech: Spring Boot • Rasa • Gemini API • Hume TTS • Ollama • React • Tailwind CSS • MySQL
 
 ---
 
 ## 🧠 Skills
 
-```yaml
 Languages:
   - Java
   - JavaScript
@@ -47,7 +46,7 @@ Frameworks:
 
 Tools & DevOps:
   - Git & GitHub
-  - Docker (Learning)
+  - DevOps (Learning)
   - GitHub Actions
   - Postman
   - IntelliJ IDEA
