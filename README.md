@@ -26,7 +26,7 @@ Connects users with legal authorities (advocates, inspectors) to help resolve le
 Full-stack file sharing app with real-time features and modern UI.
 > Tech: Spring Boot • React • Tailwind CSS • MySQL
 
-### 🔹 [Mock Interview AI Platform](WIP)
+### 🔹 [Mock Interview AI Platform](https://github.com/Vaibhav979/AI-Mock-Interview-Project)
 An AI-powered interview assistant with voice input, camera feedback, and real-time evaluation.
 > Tech: Spring Boot • Rasa • Gemini API • Hume TTS • Ollama • React • Tailwind CSS • MySQL
 
