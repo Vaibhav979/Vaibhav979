@@ -28,7 +28,7 @@ Full-stack file sharing app with real-time features and modern UI.
 
 ### 🔹 [Mock Interview AI Platform](https://github.com/Vaibhav979/AI-Mock-Interview-Project)
 An AI-powered interview assistant with voice input, camera feedback, and real-time evaluation.
-> Tech: Spring Boot • Rasa • Gemini API • Hume TTS • Ollama • React • Tailwind CSS • MySQL
+> Tech: Spring Boot • Vosk(STT) • Gemini API • Hume TTS(for future) • React • Tailwind CSS • MySQL
 
 ---
 
