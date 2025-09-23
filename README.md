@@ -37,10 +37,12 @@ An AI-powered interview assistant with voice input, camera feedback, and real-ti
 Languages:
   - Java
   - JavaScript
+  - Python
   - SQL
 
 Frameworks:
   - Spring Boot
+  - Django
   - React
   - Tailwind CSS
 
