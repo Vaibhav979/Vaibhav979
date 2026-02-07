@@ -1,66 +1,50 @@
-# 👋 Hi, I'm Vaibhav Singh
+# Hi, I'm Vaibhav 👋
 
-🎯 Software Developer | ☁️ Aspiring DevSecOps Engineer | 🤖 AI/ML Explorer  
-🔧 Tech Stack: Java • Spring Boot • React • Tailwind CSS • MySQL • GitHub Actions • DevOps
+Software Developer | Backend & DevOps-focused | Java | Spring Boot | Distributed Systems  
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate software developer, a Java/Spring Boot developer, building real-world full-stack projects and moving steadily into DevSecOps and AI/ML. My goal is to create scalable, secure, and intelligent software systems — and eventually launch my own tech startup 🚀
-
-- 🔨 Currently working on: Cloud-Native Hotel Rating System & DevSecOps Tools
-- 🌱 Learning: Kubernetes, Rasa, Gemini API, Hume.ai, LLMs with Ollama
-- 📚 Hobby: Solving Leetcode (250+ questions down)
-- 💡 Favorite Quote: "Karmanye vadhikaraste Ma Phaleshu Kadachana, Ma Karmaphalaheturbhurma Te Sangostvakarmani"
+I build resilient backend systems, cloud-native deployments, and automation pipelines.
 
 ---
 
-## 💼 Projects
+## 🔧 Tech Stack
 
-### 🔹 [LAW - Legal Awareness Website](https://github.com/Vaibhav979/Legal-Awzreness-Website)
-Connects users with legal authorities (advocates, inspectors) to help resolve legal issues.
-> Tech: Spring Boot • Thymeleaf • MySQL
-
-### 🔹 [File Sharing Manager](https://github.com/Vaibhav979/File-Sharing-Manager)
-Full-stack file sharing app with real-time features and modern UI.
-> Tech: Spring Boot • React • Tailwind CSS • MySQL
-
-### 🔹 [Mock Interview AI Platform](https://github.com/Vaibhav979/AI-Mock-Interview-Project)
-An AI-powered interview assistant with voice input, camera feedback, and real-time evaluation.
-> Tech: Spring Boot • Vosk(STT) • Gemini API • Hume TTS(for future) • React • Tailwind CSS • MySQL
+- Backend: Java, Spring Boot, REST APIs, JPA
+- DevOps: Docker, GitHub Actions, CI/CD, Linux
+- Cloud: AWS EC2
+- Databases: MySQL, PostgreSQL, Redis
+- Security: JWT, OAuth2, Trivy
 
 ---
 
-## 🧠 Skills
+## 📌 Featured Projects
 
-Languages:
-  - Java
-  - JavaScript
-  - Python
-  - SQL
+### 🔹 Resilient API Gateway
+➡️ Multi-layer caching, rate limiting, circuit breakers  
+🔗 https://github.com/Vaibhav979/resilient-api-gateway
 
-Frameworks:
-  - Spring Boot
-  - Django
-  - React
-  - Tailwind CSS
+### 🔹 AI Mock Interview Platform
+➡️ Distributed AI orchestration backend  
+🔗 https://github.com/vaibhav979/AI-Mock-Interview-Project
 
-Tools & DevOps:
-  - Git & GitHub
-  - DevOps
-  - Docker
-  - Jenkins
-  - AWS (EC2)
-  - GitHub Actions
-  - Postman
-  - IntelliJ IDEA
+### 🔹 File Sharing Manager
+➡️ Full-stack file sharing app with real-time features and modern UI.
+🔗 https://github.com/Vaibhav979/File-Sharing-Manager
 
-Databases:
-  - MySQL
-  - PostgreSQL (Learning)
+### 🔹 CI/CD & Cloud Deployment
+➡️ Automated pipelines + AWS hosting  
+🔗 https://github.com/Vaibhav979/containerized-loan-api
+🔗 https://github.com/Vaibhav979/Microservices-project
 
-AI/ML (In Progress):
-  - Ollama
-  - Gemini API
-  - Rasa
+### 🔹 Bash Cloud Automation Toolkit
+➡️ Bash scripts for automating cloud server setup, deployment, and maintenance.
+🔗 https://github.com/Vaibhav979/Linux-Scripts
+
+---
+
+## 📫 Reach me:
+- LinkedIn: https://www.linkedin.com/in/vaibhav-singh-khati
+- Email: vaibhavsingh8931@gmail.com
