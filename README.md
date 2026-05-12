@@ -1,6 +1,6 @@
 # Hi, I'm Vaibhav 👋
 
-Software Developer | Backend & DevOps-focused | Java | Spring Boot | Distributed Systems  
+Software Developer | Backend & DevOps-focused | Java | Spring Boot | TypeScript | Express | Distributed Systems  
 
 ---
 
