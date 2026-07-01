@@ -12,7 +12,7 @@ I build resilient backend systems, cloud-native deployments, and automation pipe
 
 ## 🔧 Tech Stack
 
-- Backend: Java, Spring Boot, REST APIs, JPA
+- Backend: Java, Spring Boot, TypeScript, Express, REST APIs, JPA
 - DevOps: Docker, GitHub Actions, CI/CD, Linux
 - Cloud: AWS EC2
 - Databases: MySQL, PostgreSQL, Redis
